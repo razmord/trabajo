@@ -1,0 +1,79 @@
+body {
+    color: #D1FFD1;
+    background-color: #202020;
+    font-family: Futura, Gotham, Arial, sans-serif;
+}
+
+h1 {
+    font-size: 2em;
+    color: white;
+    background: #303030;
+    text-align: center;
+
+}
+
+h2 {
+    font-size: 1.45em;
+    font-weight: 400;
+    color: white;
+    background: #303030;
+}
+
+h3 {
+    font-size: 1.25em;
+    font-weight: 400;
+    color: white;
+}
+
+a:link {
+    text-decoration: none;
+    color: chocolate;
+}
+
+a:visited {
+    text-decoration: none;
+    color: lightsalmon;
+}
+
+a:hover {
+    text-decoration: none;
+    color: #ffc;
+}
+
+strong {
+    font-weight: bold;
+    color: #e5bce5;
+}
+
+.vuelta {
+    font-size: 0.8em;
+    font-style: italic;
+}
+
+.final {
+    font-size: 0.95em;
+    font-style: italic;
+    color: white;
+    background: #303030;
+    text-align: center;
+}
+
+table {
+    border-collapse: collapse;
+    width: 80%;
+}
+
+th {
+    font-weight: 600;
+    font-family: Trebuchet ms, Futura, Gotham, Verdana, sans-serif;
+}
+
+th,
+td {
+    padding: 0.25em;
+    border: 1px solid #404040;
+}
+
+tbody tr:nth-child(odd) {
+    background: #303030;
+}
